@@ -1006,7 +1006,7 @@ private: System::Void MyForm_KeyDown(System::Object^ sender, System::Windows::Fo
 	}
 	else if (e->Shift && e->KeyCode.ToString() == "D6") {
 		button_power_Click(sender, e);
-	}`x
+	}
 	else if(e->KeyCode.ToString() == "D2"){
 		Add_symbol("2", sentenceBox, resultBox);
 	}

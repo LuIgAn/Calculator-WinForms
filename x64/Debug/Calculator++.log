@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\Git\MyForm.h(262,69): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Git\MyForm.h(285,77): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Git\MyForm.h(289,44): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Git\MyForm.h(294,44): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Git\MyForm.h(300,43): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Git\MyForm.h(244): warning C4715: Priority: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator++.vcxproj -> D:\Git\x64\Debug\Calculator++.exe
